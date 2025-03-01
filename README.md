@@ -1,2 +1,2 @@
-# Morning Brief
-### A chrome extension that briefs you every morning on what matters.
+# DayBrief
+### A chrome extension that briefs you on what matters.
